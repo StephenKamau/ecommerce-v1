@@ -3,6 +3,5 @@
 ![test_workflow](https://github.com/StephenKamau/django_puppy_store/actions/workflows/django.yml/badge.svg)
 
 
-```pip install -r requirements.txt
-```
+```pip install -r requirements.txt```
 
